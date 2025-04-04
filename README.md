@@ -48,7 +48,6 @@ If you're new to ML, this repo shows you:
 ├── notebooks/       - Jupyter notebooks for training and evaluation
 ├── data/            - Generated QR code images and corresponding labels
 ├── README.md        - This file
-└── requirements.txt - Python dependencies
 ```
 
 ✅ **Next Steps**  
