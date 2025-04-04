@@ -59,3 +59,8 @@ If you're new to ML, this repo shows you:
 
 💬 **Final Note**  
 This repository is meant to prove that you don't need powerful hardware or paid services to dive into machine learning. If you have access to a browser, you have access to ML. Let's build together and empower learners everywhere! ✊🏾💻🧠
+
+✅ **Citations**  
+Swokowski, Earl W. Calculus: The Classic Edition. 7th ed., Brooks/Cole, 2012.
+Swokowski, Earl W. Student Solutions Manual for Calculus: The Classic Edition, Volume 2. 7th ed., Brooks/Cole, 2012.
+OpenAI. "ChatGPT". Accessed March 19, 2025. [https://www.openai.com/chatgpt].
