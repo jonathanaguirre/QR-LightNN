@@ -1,9 +1,9 @@
 # QR-Code Based Lightweight Neural Network (ML) Project
 
-This project is part of my hands-on learning journey demonstrating that machine learning can be accomplished using minimal resources—a Chromebook and free, open-source tools are all you need. No expensive hardware or cloud services required!
+This project is part of my hands-on learning journey through the LinkedIn Learning + Wolfram Research Machine Learning Certificate demonstrating that machine learning can be accomplished using minimal resources.
 
 🎯 **Objective**  
-Develop a lightweight neural network model for image classification using programmatically generated QR codes. Each QR code encodes a single alphanumeric character. The long-term vision is to build a secure messaging system based on modular QR code encoding.
+Develop a lightweight neural network model for image classification using programmatically generated QR codes. Each QR code encodes a single numeric character.
 
 🚀 **For Beginners: How This Project Helps You**  
 If you're new to ML, this repo shows you:
@@ -11,43 +11,38 @@ If you're new to ML, this repo shows you:
 - How to generate custom datasets with programmatically created QR codes  
 - How to design and train lightweight CNN models for image classification  
 - How to manage computational resources effectively in constrained environments  
-- How to build practical ML applications with entirely free tools
 
 🧠 **Models Used**  
-- **Lightweight Convolutional Neural Network (CNN)** – Optimized for fast training and minimal computational requirements on small QR code images
+- **Custom Lightweight Convolutional Neural Network (CNN)** – Optimized for fast training and minimal computational requirements on small QR code images
 
 🧰 **Tools & Technologies**  
 - **JupyterLab** (web-based environment)  
 - **Python 3**  
-- Libraries such as TensorFlow/Keras or PyTorch, NumPy, and OpenCV/Pillow for image processing
+- NumPy, and OpenCV/Pillow for image processing
 
 📊 **Dataset**  
 - **Source:** Programmatically generated QR codes  
-- **Features:** Each image encodes a single alphanumeric character  
-- **Target:** The corresponding character label  
+- **Features:** Each image encodes a single numeric character  
+- **Target:** Corresponding character label  
 - **Constraints:** Entire dataset size is kept under 25 MB for optimal resource efficiency
 
-⚙️ **ML Workflow**  
-1. **Data Generation & Preprocessing**  
+⚙️ **ML Workflow** 
+
+**Part I: Data Generation & Preprocessing**  
    - Programmatically generate QR codes with minimal file sizes  
    - Resize and normalize images as necessary  
    - Split data into training and validation sets
 
-2. **Model Training**  
-   - Design a lightweight CNN architecture tailored for QR code image classification  
+**Part II: Model Training** (Comming Soon!)
+   - Design a lightweight CNN architecture tailored for QR code image classification
    - Train the model on the generated dataset
 
-3. **Model Evaluation**  
+**Part III: Model Evaluation**  
    - Assess performance using metrics such as accuracy and loss  
    - Fine-tune hyperparameters to optimize results
 
-4. **Inference Example**  
-   ```python
-   # Example
-   # Input: Image of a QR code encoding the character 'A'
-   # Output: Predicted label 'A'
-   ```
-
+**Part IV: Inference Example** (Comming Soon!)
+  
 📁 **Project Structure**  
 ```
 ├── notebooks/       - Jupyter notebooks for training and evaluation
