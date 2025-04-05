@@ -29,7 +29,6 @@ If you're new to ML, this repo shows you how to:
 ⚙️ **ML Workflow**  
 **Part I: Data Generation & Preprocessing**  
 - Programmatically generate QR codes with minimal file sizes  
-- Resize and normalize images  
 - Split data into training and validation sets
 
 **Part II: Model Training** *(Coming Soon!)*  
@@ -59,8 +58,6 @@ This repository shows you don't need powerful hardware or paid services to dive 
 ---
 
 ## ✅ Citations  
-Swokowski, Earl W. *Calculus: The Classic Edition*, 7th ed., Brooks/Cole, 2012.  
-Swokowski, Earl W. *Student Solutions Manual for Calculus: The Classic Edition, Volume 2*, 7th ed., Brooks/Cole, 2012.  
 OpenAI. "ChatGPT". Accessed March 19, 2025. [https://www.openai.com/chatgpt](https://www.openai.com/chatgpt)
 
 ---
