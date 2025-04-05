@@ -76,4 +76,4 @@ If this project helps your own work or learning, please consider starring the re
 
 ### 🧾 How to Cite This Work
 
-> Aguirre, Jonathan. *QR-Code Based Lightweight Neural Network (ML) Project*, 2025. GitHub repository: [https://github.com/your-username/QR-LightNN](https://github.com/your-username/QR-LightNN)
+> Aguirre, Jonathan. *QR-Code Based Lightweight Neural Network (ML) Project*, 2025. GitHub repository: [https://github.com/jonathanaguirre/QR-LightNN](https://github.com/jonathanaguirre/QR-LightNN)
