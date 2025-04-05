@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and package management
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python virtual environment
+*.egg-info/
+*.egg
+pip-log.txt
+
+# Jupyter runtime files
+*.local/share/jupyter/runtime
+
+# Data files (optional: uncomment to ignore data folder)
+# data/
+
+# Model checkpoints or weights
+*.h5
+*.pt
+*.pth
+
+# OS or IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
