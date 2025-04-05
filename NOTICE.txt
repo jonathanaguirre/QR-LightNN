@@ -1,0 +1,14 @@
+NOTICE
+
+This repository, including all source code, datasets, and written content, is provided under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Author: Jonathan  Aguirre
+Contact: jonathan.aguirre@gmail.com
+
+Terms:
+- Use is permitted for **non-commercial, educational, and personal learning** only.
+- Any public reuse must retain attribution to the original author.
+- Commercial use is strictly prohibited without express written permission.
+- This includes use in paid courses, apps, training materials, consulting, or publishing.
+
+To request commercial licensing, contact the author via the email above.
